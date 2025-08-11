@@ -29,3 +29,23 @@
         <button class="tecla tecla_errado"><img src="images/errado.svg" alt="Errado"></button>
         <button class="telca tecla_grilo"><img src="images/grilo.svg" alt="Grilo"></button>
         <button class="tecla tecla_tambores"><img src="images/tambores.svg" alt="Tambores"></button>
+         <button class="tecla tecla_trombeta"><img src="images/trombeta.svg" alt="Trombeta"></button>
+        <button class="tecla tecla_dinheiro"><img src="images/dinheiro.svg" alt="Dinheiro"></button>
+        <button class="tecla tecla_vitoria"><img src="images/vitoria.svg" alt="Vitória"></button>
+        
+    </section>
+    
+        <audio src="sounds/aplausos.wav" id="som_tecla_aplausos"></audio>
+        <audio src="sounds/vaia.wav" id="som tecla vaia"></audio>
+        <audio src="sounds/risadas.wav" id="som_tecla_risada"></audio>
+        <audio src="sounds/errado.wav" id="som tecla errado"></audio>
+        <audio src="sounds/grilo.wav" id="som_tecla_grilo"></audio>
+        <audio src="sounds/tambores.wav" id="som_tecla_tambores"></audio>
+        <audio src="sounds/trombeta.wav" id="som_tecla trombeta"></audio>
+        <audio src="sounds/dinheiro.wav" id="som tecla dinheiro"></audio>
+        <audio src="sounds/vitoria.wav" id="som_tecla_vitoria"></audio>
+        
+        <script src="main.js"></script>
+        
+        </body>
+        </html>
